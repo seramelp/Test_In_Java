@@ -1,7 +1,7 @@
 # Test_In_java
 
 
-#A Maven Project that  includes (at least) the following components:
+A Maven Project that  includes the following components:
 
 1. A class named StatisticUtilsArray. This class is responsible for providing a set of statistical values for an array of double values. More specifically, the statistical metrics  are the following:
 a. Minimum Value
