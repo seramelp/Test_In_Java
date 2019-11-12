@@ -16,4 +16,4 @@ A Maven Project that  includes the following components:
 
 4. Two classes named  StatisticUtilsArrayStream and StatisticUtilsArrayListStream which utilize Java Streams for the estimation of the        statistic metrics needed.
 
-5. A class named StatisticUtilsTemplates which can handle all Numerical data types, by using Templates.
+5. A class named StatisticUtilsTemplates which can handle all Numerical data types, by using Templates in order to calculate the aforementioned metrics.
