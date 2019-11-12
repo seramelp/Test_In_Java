@@ -3,12 +3,12 @@
 
 A Maven Project that  includes the following components:
 
-1. A class named StatisticUtilsArray. This class is responsible for providing a set of statistical values for an array of double values.      More specifically, the statistical metrics  are the following:
-   a. Minimum Value
-   b. Maximum Value
-   c. Median Value
-   d. Mean Value
-   e. Standard Deviation
+1. A class named StatisticUtilsArray. This class is responsible for providing a set of statistical values for an array of double values.    More specifically, the statistical metrics are the following:
+ a. Minimum Value 
+ b. Maximum Value
+ c. Median Value
+ d. Mean Value
+ e. Standard Deviation
 
 2. A class named StatisticUtilsArrayList. This class provides the aforementioned metrics, but for an arraylist of double values.
 
